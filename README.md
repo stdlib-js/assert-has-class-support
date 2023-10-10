@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import hasClassSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-class-support@esm/index.mjs';
+import hasClassSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-class-support@v0.1.1-esm/index.mjs';
 ```
 
 #### hasClassSupport()
@@ -80,7 +80,7 @@ var bool = hasClassSupport();
 <body>
 <script type="module">
 
-import hasClassSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-class-support@esm/index.mjs';
+import hasClassSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-class-support@v0.1.1-esm/index.mjs';
 
 var bool = hasClassSupport();
 if ( bool ) {
